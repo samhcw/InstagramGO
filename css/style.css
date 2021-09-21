@@ -1,7 +1,15 @@
 body {
-    background: linear-gradient(227.41deg, #FC0088 6.24%, #F1004C 25.22%, #F7A34B 85.53%, #FFD978 97.33%);
+
 }
 
-#figmaFile {
-    background-color: rgba(0, 0, 50, 1);
+.instagramCover {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(227.41deg, #FC0088 6.24%, #F1004C 25.22%, #F7A34B 85.53%, #FFD978 97.33%);
+    color: white;
 }
+
